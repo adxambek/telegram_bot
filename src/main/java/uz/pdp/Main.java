@@ -7,7 +7,6 @@ import uz.pdp.container.ComponentContainer;
 
 public class Main {
     public static void main(String[] args) {
-//wfefwfwfw
         try {
             TelegramBotsApi telegramBotsApi = new TelegramBotsApi(DefaultBotSession.class);
 
