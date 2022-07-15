@@ -5,32 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d8f5afc-72ff-44c1-85a1-00a249bf4e9c" name="Changes" comment="Initial commit">
+      <changelist_data name="adxambek" email="gulibahor1957@gmail.com" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/Noutuz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/Noutuz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/container/ComponentContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/container/ComponentContainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/controller/AdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/controller/FileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/controller/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/database/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/database/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/enums/AdminStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/enums/AdminStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/enums/CustomerStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/enums/CustomerStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/enums/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/enums/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/CartProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/model/CartProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Operations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/service/CartProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/service/CartProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/service/CustomerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/util/DemoUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/util/DemoUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/util/InlineKeyboardUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/util/InlineKeyboardUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/util/KeyboardUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/util/KeyboardUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +99,7 @@
       <workItem from="1657792209645" duration="15000" />
       <workItem from="1657792241121" duration="217000" />
       <workItem from="1657792505132" duration="1992000" />
-      <workItem from="1657874519702" duration="1315000" />
+      <workItem from="1657874519702" duration="2304000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1657884294303</created>
@@ -132,7 +108,35 @@
       <option name="project" value="LOCAL" />
       <updated>1657884294303</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1657884743580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657884743581</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1657884798266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657884798266</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1657884812505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657884812505</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1657885123225</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657885123225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +145,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="23d6fc95-35fb-4d16-9a75-bd34de7f00cf">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -158,6 +187,11 @@
             </State>
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="23d6fc95-35fb-4d16-9a75-bd34de7f00cf" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
