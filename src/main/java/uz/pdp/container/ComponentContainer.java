@@ -12,8 +12,8 @@ import java.util.Map;
 
 public abstract class ComponentContainer {
 
-    public static final String BOT_TOKEN = "5335528927:AAFsnGv7nIrZn6vydLPoG2Qv09ecOUx4bdI";
-    public static final String BOT_NAME = "@Aptekachiuzbot";
+    public static final String BOT_TOKEN = "";
+    public static final String BOT_NAME = "";
 
     public static final String ADMIN_ID = "";
 
